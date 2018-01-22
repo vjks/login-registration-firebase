@@ -2,5 +2,7 @@
   "name": "instantpot5",
   "app_id": "af0c3d3a",
   "type": "ionic-angular",
-  "integrations": {}
+  "integrations": {
+    "cordova": {}
+  }
 }
